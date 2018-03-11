@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blogs/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-03-11T11:28:16.418Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://mtxcfw.github.io/"/>
+  <updated>2018-03-11T12:05:46.469Z</updated>
+  <id>https://mtxcfw.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>概率论与数理统计</title>
+    <link href="https://mtxcfw.github.io/2018/03/11/Probability-and-Statistics/"/>
+    <id>https://mtxcfw.github.io/2018/03/11/Probability-and-Statistics/</id>
+    <published>2018-03-11T12:02:33.000Z</published>
+    <updated>2018-03-11T12:05:46.469Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/11/hello-world/"/>
-    <id>http://yoursite.com/2018/03/11/hello-world/</id>
+    <link href="https://mtxcfw.github.io/2018/03/11/hello-world/"/>
+    <id>https://mtxcfw.github.io/2018/03/11/hello-world/</id>
     <published>2018-03-11T11:28:16.418Z</published>
     <updated>2018-03-11T11:28:16.418Z</updated>
     
